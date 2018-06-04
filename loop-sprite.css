@@ -1,0 +1,173 @@
+a.icon {
+  display: inline-block;
+  font-size: 0px;
+  color: transparent;
+  background-image: url("../hl-icon-sprites.svg"); }
+  a.icon.big-freedom {
+    width: 116px;
+    height: 116px;
+    background-position: 0px 0px; }
+  a.icon.medium-freedom {
+    width: 86px;
+    height: 86px;
+    background-position: 0px -142px; }
+  a.icon.small-freedom {
+    width: 71px;
+    height: 71px;
+    background-position: 0px -255px; }
+  a.icon.big-light {
+    width: 116px;
+    height: 116px;
+    background-position: -136px 0px; }
+  a.icon.medium-light {
+    width: 86px;
+    height: 86px;
+    background-position: -136px -142px; }
+  a.icon.small-light {
+    width: 71px;
+    height: 71px;
+    background-position: -136px -255px; }
+  a.icon.big-paper {
+    width: 116px;
+    height: 116px;
+    background-position: -272px 0px; }
+  a.icon.medium-paper {
+    width: 86px;
+    height: 86px;
+    background-position: -272px -142px; }
+  a.icon.small-paper {
+    width: 71px;
+    height: 71px;
+    background-position: -272px -255px; }
+  a.icon.big-building {
+    width: 116px;
+    height: 116px;
+    background-position: -408px 0px; }
+  a.icon.medium-building {
+    width: 86px;
+    height: 86px;
+    background-position: -408px -142px; }
+  a.icon.small-building {
+    width: 71px;
+    height: 71px;
+    background-position: -408px -255px; }
+  a.icon.big-borrar {
+    width: 116px;
+    height: 116px;
+    background-position: -544px 0px; }
+  a.icon.medium-borrar {
+    width: 86px;
+    height: 86px;
+    background-position: -544px -142px; }
+  a.icon.small-borrar {
+    width: 71px;
+    height: 71px;
+    background-position: -544px -255px; }
+  a.icon.big-shop {
+    width: 116px;
+    height: 116px;
+    background-position: -680px 0px; }
+  a.icon.medium-shop {
+    width: 86px;
+    height: 86px;
+    background-position: -680px -142px; }
+  a.icon.small-shop {
+    width: 71px;
+    height: 71px;
+    background-position: -680px -255px; }
+  a.icon.big-electricity {
+    width: 116px;
+    height: 116px;
+    background-position: -816px 0px; }
+  a.icon.medium-electricity {
+    width: 86px;
+    height: 86px;
+    background-position: -816px -142px; }
+  a.icon.small-electricity {
+    width: 71px;
+    height: 71px;
+    background-position: -816px -255px; }
+  a.icon.big-search {
+    width: 116px;
+    height: 116px;
+    background-position: -952px 0px; }
+  a.icon.medium-search {
+    width: 86px;
+    height: 86px;
+    background-position: -952px -142px; }
+  a.icon.small-search {
+    width: 71px;
+    height: 71px;
+    background-position: -952px -255px; }
+  a.icon.big-safe {
+    width: 116px;
+    height: 116px;
+    background-position: -1088px 0px; }
+  a.icon.medium-safe {
+    width: 86px;
+    height: 86px;
+    background-position: -1088px -142px; }
+  a.icon.small-safe {
+    width: 71px;
+    height: 71px;
+    background-position: -1088px -255px; }
+  a.icon.big-distributors {
+    width: 116px;
+    height: 116px;
+    background-position: -1224px 0px; }
+  a.icon.medium-distributors {
+    width: 86px;
+    height: 86px;
+    background-position: -1224px -142px; }
+  a.icon.small-distributors {
+    width: 71px;
+    height: 71px;
+    background-position: -1224px -255px; }
+  a.icon.big-borrar2 {
+    width: 116px;
+    height: 116px;
+    background-position: -1360px 0px; }
+  a.icon.medium-borrar2 {
+    width: 86px;
+    height: 86px;
+    background-position: -1360px -142px; }
+  a.icon.small-borrar2 {
+    width: 71px;
+    height: 71px;
+    background-position: -1360px -255px; }
+  a.icon.big-nps {
+    width: 116px;
+    height: 116px;
+    background-position: -1496px 0px; }
+  a.icon.medium-nps {
+    width: 86px;
+    height: 86px;
+    background-position: -1496px -142px; }
+  a.icon.small-nps {
+    width: 71px;
+    height: 71px;
+    background-position: -1496px -255px; }
+  a.icon.big-talk {
+    width: 116px;
+    height: 116px;
+    background-position: -1632px 0px; }
+  a.icon.medium-talk {
+    width: 86px;
+    height: 86px;
+    background-position: -1632px -142px; }
+  a.icon.small-talk {
+    width: 71px;
+    height: 71px;
+    background-position: -1632px -255px; }
+  a.icon.big-idea {
+    width: 116px;
+    height: 116px;
+    background-position: -1768px 0px; }
+  a.icon.medium-idea {
+    width: 86px;
+    height: 86px;
+    background-position: -1768px -142px; }
+  a.icon.small-idea {
+    width: 71px;
+    height: 71px;
+    background-position: -1768px -255px; }

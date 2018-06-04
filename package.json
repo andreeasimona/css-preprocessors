@@ -1,0 +1,15 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build-css": "node-sass ./loop-sprite.sass ./processed-loop-sprite.css",
+    "test": "text-file-diff ./loop-sprite.css ./processed-loop-sprite.css"
+  },
+  "author": "Simo",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "text-file-diff": "^1.0.5"
+  }
+}

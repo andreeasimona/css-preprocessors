@@ -1,0 +1,17 @@
+$icons: (freedom: 0px, light: -136px, paper: -272px, building: -408px, borrar: -544px, shop: -680px, electricity: -816px, search: -952px, safe: -1088px, distributors: -1224px, borrar2: -1360px, nps:-1496px, talk: -1632px, idea: -1768px);
+$sizes: (big: (0px, 116px), medium: (-142px, 86px), small: (-255px, 71px))
+
+=create-images($size, $background-position-y)
+	width: nth($size, 2)
+	height: nth($size, 2)
+	background-position: $background-position-y nth($size, 1)
+
+a.icon 
+	display: inline-block
+	font-size: 0px
+	color: transparent
+	background-image: url("../hl-icon-sprites.svg")
+	@each $name-icon, $background-position-y in $icons
+		@each $name-size, $size-props in $sizes
+			&.#{$name-size}-#{$name-icon}
+				+create-images($size-props, $background-position-y)
