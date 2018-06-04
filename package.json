@@ -9,7 +9,7 @@
   "author": "Simo",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.7.2",
-    "text-file-diff": "^1.0.5"
+    "node-sass": "^4.9.0",
+    "text-file-diff": "^1.0.6"
   }
 }
